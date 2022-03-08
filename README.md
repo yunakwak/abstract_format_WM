@@ -14,4 +14,5 @@ Data necessary for running these codes can be found at https://osf.io/t6b95/
    - Voxel-level simulated data based on Roth et al (2018) can be found in recon_modelBeta/data for gratings and simple lines reported in paper.
    - The inputs to the model, which are stimulus images of the exact same gratings used in the experiment and simple line images, can be found in recon_modelBeta/stim.
    
-   
+<more_figures>
+- Supplementary figures that didn't make it to the Supplemental Information published
